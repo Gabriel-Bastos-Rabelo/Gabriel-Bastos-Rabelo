@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriel!
-## Ferramentas e Tecnologias
+## Tools and technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,postgres,mysql,mongodb,react,tailwind,bootstrap,figma,git)](https://skillicons.dev)
 
